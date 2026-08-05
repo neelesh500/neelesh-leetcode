@@ -1,25 +1,37 @@
-#include <stack>
+#pragma GCC optimize("O2")
+
+#include <iostream>
 #include <string>
+
 using namespace std;
 
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
+        int n = s.length();
+        if (n % 2 != 0) return false;
+
+        char st[n];
+        int top = -1;
+
         for (char ch : s) {
             if (ch == '(' || ch == '[' || ch == '{') {
-                st.push(ch);
+                st[++top] = ch;
             } else {
-                if (st.empty()) {
+                if (top == -1) return false;
+                
+                char last = st[top--];
+                if ((ch == ')' && last != '(') ||
+                    (ch == ']' && last != '[') ||
+                    (ch == '}' && last != '{')) {
                     return false;
                 }
-                char top = st.top();
-                st.pop();
-                if (ch == ')' && top != '(') return false;
-                if (ch == ']' && top != '[') return false;
-                if (ch == '}' && top != '{') return false;
             }
         }
-        return st.empty();
+
+        return top == -1;
     }
 };
