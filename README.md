@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/neelesh500/neelesh-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/neelesh500/neelesh-leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
