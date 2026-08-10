@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/neelesh500/neelesh-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/neelesh500/neelesh-leetcode/tree/master/0013-roman-to-integer) |
+| [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/neelesh500/neelesh-leetcode/tree/master/0010-regular-expression-matching) |
+| [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -107,4 +109,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neelesh500/neelesh-leetcode/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
