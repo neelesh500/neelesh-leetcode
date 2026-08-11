@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/neelesh500/neelesh-leetcode/tree/master/0013-roman-to-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0018-4sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
