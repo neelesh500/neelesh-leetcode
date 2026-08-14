@@ -2,8 +2,7 @@ class Solution {
 public:
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         return buildBST(nums, 0, nums.size() - 1);
-    }
-    
+    }   
 private:
     TreeNode* buildBST(const vector<int>& nums, int left, int right) {
         if (left > right) {
