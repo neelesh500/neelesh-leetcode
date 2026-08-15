@@ -1,9 +1,9 @@
 class Solution {
 public:
-    int findNumbers(vector<int>& nums) {
+    int findNumbers(vector<int>& n) {
         int evenDigitCount = 0; 
-        for (int i = 0; i < nums.size(); i++) {
-            int currentNum = nums[i];
+        for (int i = 0; i < n.size(); i++) {
+            int currentNum = n[i];
             int digitCount = 0;
             while (currentNum > 0) {
                 currentNum = currentNum / 10;
@@ -13,7 +13,6 @@ public:
                 evenDigitCount++;
             }
         }
-        
         return evenDigitCount;
     }
 };
