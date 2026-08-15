@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neelesh500/neelesh-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/neelesh500/neelesh-leetcode/tree/master/0118-pascals-triangle) |
+| [0704-binary-search](https://github.com/neelesh500/neelesh-leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1929-concatenation-of-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/1929-concatenation-of-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/neelesh500/neelesh-leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/neelesh500/neelesh-leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
