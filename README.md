@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/neelesh500/neelesh-leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/neelesh500/neelesh-leetcode/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/1929-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/neelesh500/neelesh-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/neelesh500/neelesh-leetcode/tree/master/0013-roman-to-integer) |
+| [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neelesh500/neelesh-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neelesh500/neelesh-leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neelesh500/neelesh-leetcode/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Trie
 |  |
 | ------- |
