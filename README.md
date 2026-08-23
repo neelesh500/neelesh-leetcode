@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/neelesh500/neelesh-leetcode/tree/master/0020-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neelesh500/neelesh-leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/neelesh500/neelesh-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/neelesh500/neelesh-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/neelesh500/neelesh-leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/neelesh500/neelesh-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/neelesh500/neelesh-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/neelesh500/neelesh-leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/neelesh500/neelesh-leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
