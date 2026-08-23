@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/neelesh500/neelesh-leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/neelesh500/neelesh-leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/neelesh500/neelesh-leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
