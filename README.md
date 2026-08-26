@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neelesh500/neelesh-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/neelesh500/neelesh-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/neelesh500/neelesh-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/neelesh500/neelesh-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/neelesh500/neelesh-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
