@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     string buildPalindrome(const string& half, char mid) {
         string ans = half;
