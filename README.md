@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/neelesh500/neelesh-leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/1929-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/neelesh500/neelesh-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/neelesh500/neelesh-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neelesh500/neelesh-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/neelesh500/neelesh-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/neelesh500/neelesh-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/neelesh500/neelesh-leetcode/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/neelesh500/neelesh-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
