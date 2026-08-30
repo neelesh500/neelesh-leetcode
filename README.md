@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/neelesh500/neelesh-leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/neelesh500/neelesh-leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/neelesh500/neelesh-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/neelesh500/neelesh-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neelesh500/neelesh-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/neelesh500/neelesh-leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/neelesh500/neelesh-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
