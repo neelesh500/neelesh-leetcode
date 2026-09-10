@@ -1,10 +1,6 @@
 class Solution {
 public:
-    int singleNumber(vector<int>& nums) {
-        int single = 0;
-        for (int num : nums) {
-            single ^= num;
-        }
-        return single;
+    int singleNumber(std::vector<int>& nums) {
+        return std::accumulate(nums.begin(), nums.end(), 0, [](int a, int b) { return a ^ b; });
     }
 };
