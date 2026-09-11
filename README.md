@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neelesh500/neelesh-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/neelesh500/neelesh-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/neelesh500/neelesh-leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/neelesh500/neelesh-leetcode/tree/master/0125-valid-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neelesh500/neelesh-leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neelesh500/neelesh-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/neelesh500/neelesh-leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/neelesh500/neelesh-leetcode/tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/neelesh500/neelesh-leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
