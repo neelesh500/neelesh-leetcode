@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/neelesh500/neelesh-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neelesh500/neelesh-leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/neelesh500/neelesh-leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/neelesh500/neelesh-leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/neelesh500/neelesh-leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neelesh500/neelesh-leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neelesh500/neelesh-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/neelesh500/neelesh-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neelesh500/neelesh-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/neelesh500/neelesh-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
