@@ -1,7 +1,3 @@
-#include <vector>
-#include <string>
-#include <algorithm>
-
 class Solution {
 public:
     bool isCommonPrefix(const vector<string>& strs, int len) {
