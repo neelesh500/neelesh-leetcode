@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/neelesh500/neelesh-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/neelesh500/neelesh-leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/neelesh500/neelesh-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/neelesh500/neelesh-leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/neelesh500/neelesh-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1872-stone-game-viii](https://github.com/neelesh500/neelesh-leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/neelesh500/neelesh-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neelesh500/neelesh-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/neelesh500/neelesh-leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/neelesh500/neelesh-leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
