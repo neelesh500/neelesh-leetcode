@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/neelesh500/neelesh-leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/neelesh500/neelesh-leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/neelesh500/neelesh-leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/neelesh500/neelesh-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/neelesh500/neelesh-leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/neelesh500/neelesh-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/neelesh500/neelesh-leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/neelesh500/neelesh-leetcode/tree/master/0205-isomorphic-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neelesh500/neelesh-leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/neelesh500/neelesh-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
