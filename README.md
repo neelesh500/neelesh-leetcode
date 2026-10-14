@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/neelesh500/neelesh-leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/neelesh500/neelesh-leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neelesh500/neelesh-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/neelesh500/neelesh-leetcode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/neelesh500/neelesh-leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/neelesh500/neelesh-leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neelesh500/neelesh-leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0045-jump-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
