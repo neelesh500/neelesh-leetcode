@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/neelesh500/neelesh-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/neelesh500/neelesh-leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/neelesh500/neelesh-leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/neelesh500/neelesh-leetcode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/neelesh500/neelesh-leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/neelesh500/neelesh-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neelesh500/neelesh-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/neelesh500/neelesh-leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/neelesh500/neelesh-leetcode/tree/master/0455-assign-cookies) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/neelesh500/neelesh-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -245,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/neelesh500/neelesh-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/neelesh500/neelesh-leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/neelesh500/neelesh-leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/neelesh500/neelesh-leetcode/tree/master/0455-assign-cookies) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/neelesh500/neelesh-leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neelesh500/neelesh-leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0045-jump-game-ii) |
+| [0455-assign-cookies](https://github.com/neelesh500/neelesh-leetcode/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/neelesh500/neelesh-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/neelesh500/neelesh-leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/neelesh500/neelesh-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neelesh500/neelesh-leetcode/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/neelesh500/neelesh-leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
