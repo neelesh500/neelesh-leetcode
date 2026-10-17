@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/neelesh500/neelesh-leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/neelesh500/neelesh-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/neelesh500/neelesh-leetcode/tree/master/0455-assign-cookies) |
+| [0598-range-addition-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0598-range-addition-ii) |
 | [0704-binary-search](https://github.com/neelesh500/neelesh-leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/neelesh500/neelesh-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/neelesh500/neelesh-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/neelesh500/neelesh-leetcode/tree/master/0268-missing-number) |
+| [0598-range-addition-ii](https://github.com/neelesh500/neelesh-leetcode/tree/master/0598-range-addition-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neelesh500/neelesh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/neelesh500/neelesh-leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/neelesh500/neelesh-leetcode/tree/master/1563-stone-game-v) |
